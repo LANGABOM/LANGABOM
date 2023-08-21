@@ -12,6 +12,9 @@
 - Proficient in Microsoft Power Apps, Power Automate, Power BI, and SharePoint.
 - Skilled in React, TypeScript, Node.js, JavaScript, and Tailwind CSS.
 - Experience in building applications using Apollo GraphQL, Firebase, Postgres, and MongoDB.
+![React Proficiency](https://img.shields.io/badge/React-Proficient-brightgreen)
+![Average Age](https://img.shields.io/badge/Average%20Age-25-blue)
+
 
 💼 **Professional Journey:**
 Over the past year and a half, I've had the opportunity to contribute and learn:

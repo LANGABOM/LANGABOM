@@ -2,6 +2,18 @@
 
 🌟 Junior Developer 
 
+| Skill         | Badge                                                                 |
+|---------------|----------------------------------------------------------------------|
+| React         | ![React Proficiency](https://img.shields.io/badge/React-Proficient-brightgreen) |
+| Next.js       | ![Next.js](https://img.shields.io/badge/Next.js-Enthusiast-yellow)       |
+| JavaScript    | ![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-brightgreen) |
+| TypeScript    | ![TypeScript](https://img.shields.io/badge/TypeScript-Competent-green)   |
+| Firebase      | ![Firebase](https://img.shields.io/badge/Firebase-Enthusiast-yellow)    |
+| GraphQL       | ![GraphQL](https://img.shields.io/badge/GraphQL-Exploring-orange)        |
+| C++           | ![C++](https://img.shields.io/badge/C++-Learning-blue)                   |
+| Angular       | ![Angular](https://img.shields.io/badge/Angular-Exploring-orange)       |
+| CI/CD         | ![CI/CD](https://img.shields.io/badge/CI%2FCD-Practicing-blueviolet)    |
+| Average Age   | ![Average Age](https://img.shields.io/badge/Average%20Age-25-blue)      |
 
 🔭 **Current Focus:**
 - Working on enhancing my skills and knowledge in various technologies.
@@ -12,8 +24,6 @@
 - Proficient in Microsoft Power Apps, Power Automate, Power BI, and SharePoint.
 - Skilled in React, TypeScript, Node.js, JavaScript, and Tailwind CSS.
 - Experience in building applications using Apollo GraphQL, Firebase, Postgres, and MongoDB.
-![React Proficiency](https://img.shields.io/badge/React-Proficient-brightgreen)
-![Average Age](https://img.shields.io/badge/Average%20Age-25-blue)
 
 
 💼 **Professional Journey:**

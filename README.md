@@ -5,12 +5,12 @@
 | Skill         | Badge                                                                 |
 |---------------|----------------------------------------------------------------------|
 | React         | ![React Proficiency](https://img.shields.io/badge/React-Proficient-brightgreen) |
-| Next.js       | ![Next.js](https://img.shields.io/badge/Next.js-Enthusiast-yellow)       |
+| Next.js       | ![Next.js](https://img.shields.io/badge/Next.js-Exploring-orange)       |
 | JavaScript    | ![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-brightgreen) |
-| TypeScript    | ![TypeScript](https://img.shields.io/badge/TypeScript-Competent-green)   |
-| Firebase      | ![Firebase](https://img.shields.io/badge/Firebase-Enthusiast-yellow)    |
+| TypeScript    | ![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-brightgreen)   |
+| Firebase      | ![Firebase](https://img.shields.io/badge/Firebase-Proficient-brightgreen)    |
 | GraphQL       | ![GraphQL](https://img.shields.io/badge/GraphQL-Exploring-orange)        |
-| C++           | ![C++](https://img.shields.io/badge/C++-Learning-blue)                   |
+| C++           | ![C++](https://img.shields.io/badge/C++-Good-blue)                   |
 | Angular       | ![Angular](https://img.shields.io/badge/Angular-Exploring-orange)       |
 | CI/CD         | ![CI/CD](https://img.shields.io/badge/CI%2FCD-Practicing-blueviolet)    |
 | Average Age   | ![Average Age](https://img.shields.io/badge/Average%20Age-25-blue)      |

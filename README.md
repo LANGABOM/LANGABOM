@@ -31,3 +31,7 @@
 I enjoy experimenting with new coding techniques and challenging myself to find creative solutions to complex problems.
 
 Feel free to reach out if you'd like to collaborate or discuss anything tech-related!
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LANGABOM&show_icons=true)

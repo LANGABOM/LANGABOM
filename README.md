@@ -32,12 +32,12 @@ I enjoy experimenting with new coding techniques and challenging myself to find 
 
 Feel free to reach out if you'd like to collaborate or discuss anything tech-related!
 
-<details>
+
 <p align = "center">
 
   <img src= "https://github-readme-stats.vercel.app/api?username=LANGABOM&show_icons=true"/>
 </p>
   
-</details>
+
 
 

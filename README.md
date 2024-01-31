@@ -37,6 +37,10 @@ Feel free to reach out if you'd like to collaborate or discuss anything tech-rel
 
   <img src= "https://github-readme-stats.vercel.app/api?username=LANGABOM&show_icons=true"/>
 </p>
+
+<p align = "center">
+  <figure><embed src="https://wakatime.com/share/@LANGABOM/ae1b24aa-ef11-4e26-9cfc-057e1b9a739e.svg"></embed></figure>
+</p>
   
 
 

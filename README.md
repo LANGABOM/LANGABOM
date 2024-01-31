@@ -32,12 +32,14 @@ I enjoy experimenting with new coding techniques and challenging myself to find 
 
 Feel free to reach out if you'd like to collaborate or discuss anything tech-related!
 
- <style>
+<head>
+  <style>
     .flex-container {
       display: flex;
       justify-content: center;
     }
   </style>
+</head>
 
 <p class="flex-container">
 

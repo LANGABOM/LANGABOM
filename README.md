@@ -32,10 +32,17 @@ I enjoy experimenting with new coding techniques and challenging myself to find 
 
 Feel free to reach out if you'd like to collaborate or discuss anything tech-related!
 
+ <style>
+    .flex-container {
+      display: flex;
+      justify-content: center;
+    }
+  </style>
 
-<p align = "center">
+<p class="flex-container">
 
   <img src= "https://github-readme-stats.vercel.app/api?username=LANGABOM&show_icons=true"/>
+   <img src= "https://wakatime.com/share/@LANGABOM/ae1b24aa-ef11-4e26-9cfc-057e1b9a739e.svg" height="400"/>
 </p>
 
 <p align = "center">
